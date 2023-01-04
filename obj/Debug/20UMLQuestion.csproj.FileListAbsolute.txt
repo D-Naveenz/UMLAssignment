@@ -37,3 +37,46 @@ C:\Coding\Assignments\20UMLQuestion\bin\Debug\System.Threading.Tasks.Extensions.
 C:\Coding\Assignments\20UMLQuestion\obj\Debug\_20UMLQuestion.MainForm.resources
 C:\Coding\Assignments\20UMLQuestion\obj\Debug\_20UMLQuestion.AddAudit.resources
 C:\Coding\Assignments\20UMLQuestion\obj\Debug\_20UMLQuestion.AddEmployee.resources
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\20UMLQuestion.exe.config
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\20UMLQuestion.exe
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\20UMLQuestion.pdb
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\Google.Protobuf.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\MySql.Data.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\System.Buffers.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\System.Memory.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\ZstdNet.dll
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\Google.Protobuf.pdb
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\Google.Protobuf.xml
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\MySql.Data.xml
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\System.Buffers.xml
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\System.Memory.xml
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dashe\My Projects\C#\UMLAssignment\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\20UMLQuestion.csproj.AssemblyReference.cache
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\20UMLQuestion.csproj.SuggestedBindingRedirects.cache
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\_20UMLQuestion.AddAudit.resources
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\_20UMLQuestion.loginPage.resources
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\_20UMLQuestion.LoginForm.resources
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\_20UMLQuestion.MainForm.resources
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\_20UMLQuestion.Properties.Resources.resources
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\20UMLQuestion.csproj.GenerateResource.cache
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\20UMLQuestion.csproj.CoreCompileInputs.cache
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\20UMLQuestion.csproj.CopyComplete
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\20UMLQuestion.exe
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\20UMLQuestion.pdb
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\_20UMLQuestion.AddDepartment.resources
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\_20UMLQuestion.AddProduct.resources
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\_20UMLQuestion.AddEmployee.resources
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\_20UMLQuestion.AddDelivery.resources
+C:\Users\dashe\My Projects\C#\UMLAssignment\obj\Debug\_20UMLQuestion.AddStore.resources

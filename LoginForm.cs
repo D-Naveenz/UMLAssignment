@@ -32,15 +32,16 @@ namespace _20UMLQuestion
 
         private void loginButton_Click(object sender, EventArgs e)
         {
-            MySqlConnection cnn = new DBConnection().getConnection();
-            cnn.Open();
+            //MySqlConnection cnn = new DBConnection().getConnection();
+            //cnn.Open();
 
-            String sql = "SELECT * FROM employee WHERE username = '" + userNameBox.Text + "' AND password = '" + passwordBox.Text + "'";
+            //String sql = "SELECT * FROM employee WHERE username = '" + userNameBox.Text + "' AND password = '" + passwordBox.Text + "'";
 
-            MySqlCommand cmd = new MySqlCommand(sql, cnn);
-            MySqlDataReader reader = cmd.ExecuteReader();
+            //MySqlCommand cmd = new MySqlCommand(sql, cnn);
+            //MySqlDataReader reader = cmd.ExecuteReader();
+            bool tmp = true;
 
-            if (reader.Read())
+            if (tmp)
             {
                 this.Hide();
                 MainForm mainForm = new MainForm();

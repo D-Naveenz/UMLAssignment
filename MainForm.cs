@@ -20,7 +20,6 @@ namespace _20UMLQuestion
         private void button1_Click(object sender, EventArgs e)
         {
             AddAudit addAudit = new AddAudit();
-            addAudit.WindowState = FormWindowState.Maximized;
             addAudit.Show();
             this.Hide();
 
@@ -28,12 +27,37 @@ namespace _20UMLQuestion
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            AddEmployee addEmployee = new AddEmployee();
+            addEmployee.Show();
+            this.Hide();
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
+            AddDelivery addDelivery = new AddDelivery();
+            addDelivery.Show();
+            this.Hide();
+        }
 
+        private void button7_Click(object sender, EventArgs e)
+        {
+            AddDepartment addDepartment = new AddDepartment();
+            addDepartment.Show();
+            this.Hide();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            AddProduct addProduct = new AddProduct();
+            addProduct.Show();
+            this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            AddStore addStore = new AddStore();
+            addStore.Show();
+            this.Hide();
         }
     }
 }

@@ -91,11 +91,35 @@
     <Compile Include="AddAudit.Designer.cs">
       <DependentUpon>AddAudit.cs</DependentUpon>
     </Compile>
+    <Compile Include="AddDelivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDelivery.Designer.cs">
+      <DependentUpon>AddDelivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDepartment.Designer.cs">
+      <DependentUpon>AddDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddProduct.Designer.cs">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </Compile>
     <Compile Include="AddEmployee.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="AddEmployee.Designer.cs">
       <DependentUpon>AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStore.Designer.cs">
+      <DependentUpon>AddStore.cs</DependentUpon>
     </Compile>
     <Compile Include="DBConnection.cs" />
     <Compile Include="Login Page.cs">
@@ -121,8 +145,20 @@
     <EmbeddedResource Include="AddAudit.resx">
       <DependentUpon>AddAudit.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="AddDelivery.resx">
+      <DependentUpon>AddDelivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDepartment.resx">
+      <DependentUpon>AddDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddProduct.resx">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AddEmployee.resx">
       <DependentUpon>AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStore.resx">
+      <DependentUpon>AddStore.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login Page.resx">
       <DependentUpon>Login Page.cs</DependentUpon>
